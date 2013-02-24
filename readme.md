@@ -6,6 +6,8 @@ It consists of two major components:
 
 Neither are very mature at the moment and have pretty limited functionality, but they work!
 
+Here's a [postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) collections of the currently available api calls: http://www.getpostman.com/collections/8cecc4109bfb08fd5e28
+
 Dependencies: 
 * Node
 * NPM
