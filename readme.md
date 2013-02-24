@@ -5,3 +5,10 @@ It consists of two major components:
 * the api that provides access to the that data (/api)
 
 Neither are very mature at the moment and have pretty limited functionality, but they work!
+
+Dependencies: 
+* Node
+* NPM
+* [TT API](https://github.com/alaingilbert/Turntable-API)
+* MongoDB
+* MongoJS
