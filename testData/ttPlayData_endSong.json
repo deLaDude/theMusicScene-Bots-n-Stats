@@ -1,0 +1,1173 @@
+[
+    {
+        "command": "endsong",
+        "room": {
+            "chatserver": [
+                "chat4.turntable.fm",
+                80
+            ],
+            "name": "Coding Soundtrack Lounge",
+            "created": 1307392894.36,
+            "description": "The Coding Soundtrack is music for geeks and hackers: for rules visit http://tinyurl.com/codingSoundtrack\n  to follow the room visit http://www.facebook.com/CodingSoundtrack",
+            "shortcut": "coding_soundtrack3",
+            "name_lower": "coding soundtrack lounge",
+            "stream_info": {
+                "start_time": 1351742788.97,
+                "first_seg_id": 1351742788,
+                "file": "4e2e63b499968e3f1a0002cc"
+            },
+            "roomid": "4ded3b7e99968e1d29000047",
+            "metadata": {
+                "dj_full": true,
+                "creator": {
+                    "name": "Brackin",
+                    "created": 1306053131.41,
+                    "laptop": "mac",
+                    "userid": "4dd8ca0be8a6c40c22000004",
+                    "acl": 0,
+                    "fans": 368,
+                    "points": 2713,
+                    "_id": "4dd8ca0be8a6c40c22000004",
+                    "avatarid": 23
+                },
+                "downvotes": 0,
+                "random": 0.6939884434,
+                "sync": {
+                    "current_seg": 1354640947,
+                    "tstamp": -180484
+                },
+                "sticker_placements": {
+                    "4dfcdd564fe7d0250302b5a5": [
+                        {
+                            "top": 68,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 141
+                        },
+                        {
+                            "top": 78,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 162
+                        },
+                        {
+                            "top": 89,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 185
+                        },
+                        {
+                            "top": 100,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 207
+                        },
+                        {
+                            "top": 110,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 226
+                        },
+                        {
+                            "top": 120,
+                            "angle": 0,
+                            "sticker_id": "4f873b32af173a2903816e52",
+                            "left": 244
+                        },
+                        {
+                            "top": 24,
+                            "angle": 0,
+                            "sticker_id": "4f86fea8e77989117e000009",
+                            "left": 344
+                        },
+                        {
+                            "top": 234,
+                            "angle": 0,
+                            "sticker_id": "4f86fe5de77989117e000007",
+                            "left": 12
+                        }
+                    ],
+                    "4e35e0394fe7d03c7306489b": [],
+                    "4e32cf16a3f7512c8813b65e": [
+                        {
+                            "top": 66,
+                            "angle": 293.592756848,
+                            "sticker_id": "4f86fe5de77989117e000007",
+                            "left": -1
+                        },
+                        {
+                            "top": 72,
+                            "angle": -261.118901227,
+                            "sticker_id": "4f86fd27e77989117e000000",
+                            "left": 172
+                        },
+                        {
+                            "top": 73,
+                            "angle": 79.4141649365,
+                            "sticker_id": "4f86fd27e77989117e000000",
+                            "left": 140
+                        },
+                        {
+                            "top": 59,
+                            "angle": 75.9733045118,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 120
+                        },
+                        {
+                            "top": 60,
+                            "angle": 77.2996090396,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 94
+                        },
+                        {
+                            "top": 70,
+                            "angle": -65.4868522315,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 48
+                        },
+                        {
+                            "top": 293,
+                            "angle": 0,
+                            "sticker_id": "4f86fe06e77989117e000004",
+                            "left": 264
+                        },
+                        {
+                            "top": 238,
+                            "angle": 84.3245201895,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 206
+                        },
+                        {
+                            "top": 238,
+                            "angle": 264.704293104,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 184
+                        },
+                        {
+                            "top": 293,
+                            "angle": 0,
+                            "sticker_id": "4f86fe06e77989117e000004",
+                            "left": 84
+                        },
+                        {
+                            "top": 237,
+                            "angle": 98.2445595695,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 131
+                        },
+                        {
+                            "top": 243,
+                            "angle": 279.748973905,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 109
+                        },
+                        {
+                            "top": 151,
+                            "angle": 180.142526521,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 165
+                        },
+                        {
+                            "top": 175,
+                            "angle": 205.098686375,
+                            "sticker_id": "4f86febfe77989117e00000a",
+                            "left": 377
+                        },
+                        {
+                            "top": 82,
+                            "angle": 233.105266734,
+                            "sticker_id": "4f86fe5de77989117e000007",
+                            "left": 260
+                        },
+                        {
+                            "top": 63,
+                            "angle": 104.127879836,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 204
+                        },
+                        {
+                            "top": 67,
+                            "angle": 103.56282569,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 230
+                        },
+                        {
+                            "top": 70,
+                            "angle": 232.226779549,
+                            "sticker_id": "4f86fe84e77989117e000008",
+                            "left": 302
+                        },
+                        {
+                            "top": 187,
+                            "angle": 6.16646711034,
+                            "sticker_id": "4f86febfe77989117e00000a",
+                            "left": 382
+                        },
+                        {
+                            "top": 295,
+                            "angle": 88.6633410217,
+                            "sticker_id": "4f86fd27e77989117e000000",
+                            "left": 336
+                        }
+                    ],
+                    "4e540ba5a3f75104592977a3": [
+                        {
+                            "top": 30,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 88
+                        },
+                        {
+                            "top": 50,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 87
+                        },
+                        {
+                            "top": 30,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 288
+                        },
+                        {
+                            "top": 51,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 288
+                        },
+                        {
+                            "top": 143,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 192
+                        },
+                        {
+                            "top": 169,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 190
+                        },
+                        {
+                            "top": 187,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 191
+                        },
+                        {
+                            "top": 75,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 89
+                        },
+                        {
+                            "top": 72,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 289
+                        },
+                        {
+                            "top": 209,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 190
+                        },
+                        {
+                            "top": 209,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 189
+                        },
+                        {
+                            "top": 251,
+                            "angle": 90.3950263013,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 264
+                        },
+                        {
+                            "top": 251,
+                            "angle": 89.4207621796,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 108
+                        },
+                        {
+                            "top": 86,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 288
+                        },
+                        {
+                            "top": 88,
+                            "angle": 0,
+                            "sticker_id": "4f86fd32e77989117e000001",
+                            "left": 88
+                        }
+                    ],
+                    "4f9560ceeb35c1654300000d": [
+                        {
+                            "top": 37,
+                            "angle": 0,
+                            "sticker_id": "4f86febfe77989117e00000a",
+                            "left": 32
+                        },
+                        {
+                            "top": 23.4855957031,
+                            "angle": 0,
+                            "sticker_id": "4f86fea8e77989117e000009",
+                            "left": 342.5
+                        }
+                    ]
+                },
+                "featured": false,
+                "moderator_id": [
+                    "4e1caca2a3f75162fc0dc695",
+                    "4dd8ca0be8a6c40c22000004",
+                    "4e2707ac4fe7d0281e0067b2",
+                    "4e1c96bc4fe7d0314a0bbb46",
+                    "4e26e4214fe7d05f3a07a176",
+                    "4dfff25ba3f75104e306e495",
+                    "4d6ed027af03036f8000000f",
+                    "4e446bb94fe7d02a4301e4d0",
+                    "4e2376eca3f751213d006700",
+                    "4e70038a4fe7d045b60bf4a0",
+                    "4e42c21b4fe7d02e6107b1ff",
+                    "4f17e8c9590ca21f66000d9f",
+                    "4f8f5584aaa5cd5820000020",
+                    "4e35e0394fe7d03c7306489b",
+                    "4e83ca444fe7d052e613a554",
+                    "4e4b4ba1a3f751044b133f41",
+                    "4dee6e434fe7d0589601cb46",
+                    "4e309f02a3f7512c810b686d",
+                    "4e300e4fa3f7512c7d097e92",
+                    "4e399773a3f751255300be75",
+                    "4e1caadaa3f75163090de07d",
+                    "4e173bb14fe7d066580f86f6",
+                    "4f2ca85aa3f75176bb00a06c",
+                    "50a806a8aaa5cd02c2ba890e",
+                    "50a451f0eb35c170d3ad2f65",
+                    "4e540ba5a3f75104592977a3",
+                    "4eaea248a3f751271d09c093"
+                ],
+                "djs": [
+                    "4e540ba5a3f75104592977a3",
+                    "4f9560ceeb35c1654300000d",
+                    "4e32cf16a3f7512c8813b65e",
+                    "4e35e0394fe7d03c7306489b",
+                    "4dfcdd564fe7d0250302b5a5"
+                ],
+                "privacy": "public",
+                "max_djs": 5,
+                "last_song_start": 1354640938.24,
+                "upvotes": 11,
+                "current_dj": "4dfcdd564fe7d0250302b5a5",
+                "netloc": "http://d1bw0qpdrmjlhz.cloudfront.net/",
+                "current_song": {
+                    "_id": "4f71e24299968e4018057ee7",
+                    "djid": "4dfcdd564fe7d0250302b5a5",
+                    "sourceid": "37095",
+                    "source": "mn",
+                    "djname": "Duder",
+                    "starttime": 1354640938.24,
+                    "snaggable": true,
+                    "metadata": {
+                        "album": "You've Come A Long Way, Baby (Parental Advisory)",
+                        "labelid": 2,
+                        "artist": "Fatboy Slim",
+                        "coverart": "http://images.mndigital.com/albums/000/037/087/m.jpeg",
+                        "song": "Gangster Tripping",
+                        "length": 320,
+                        "mnid": "37095",
+                        "genre": "Electronica/Dance"
+                    }
+                },
+                "genre": "Electronica/Dance",
+                "max_size": 200,
+                "songlog": [
+                    {
+                        "_id": "4dd6f728e8a6c4351a00018a",
+                        "source": "mn",
+                        "sourceid": "33771241",
+                        "djid": "4e4e6e044fe7d02a351bc4d9",
+                        "score": 0.588235294118,
+                        "djname": "punkthinker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Deadringer: Deluxe",
+                            "artist": "RJD2",
+                            "coverart": "http://images.mndigital.com/albums/033/771/223/m.jpeg",
+                            "song": "Final Frontier",
+                            "length": 266,
+                            "mnid": "33771241",
+                            "genre": "Rap/Hip Hop"
+                        }
+                    },
+                    {
+                        "_id": "4ed6f6cd99968e3cb900809d",
+                        "source": "upload",
+                        "sourceid": "4fcaee382a71b623debc8fae1a4f072a",
+                        "djid": "4e1cacef4fe7d0313c0f57d1",
+                        "score": 0.617647058824,
+                        "djname": "nhance",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Leda's fall '08 CD!",
+                            "genre": "",
+                            "length": 308,
+                            "song": "Will Power",
+                            "artist": "Awesome"
+                        }
+                    },
+                    {
+                        "_id": "4e7f67bc99968e316f00c831",
+                        "source": "mn",
+                        "sourceid": "13507933",
+                        "djid": "4e540ba5a3f75104592977a3",
+                        "score": 0.676470588235,
+                        "djname": "Sub3rDuck",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Fight With Tools",
+                            "labelid": 5,
+                            "artist": "The Flobots",
+                            "coverart": "http://images.mndigital.com/albums/013/507/921/m.jpeg",
+                            "song": "Handlebars",
+                            "length": 207,
+                            "mnid": "13507933",
+                            "genre": "Rap/Hip Hop"
+                        }
+                    },
+                    {
+                        "_id": "4e88ff7b99968e5881001b51",
+                        "source": "upload",
+                        "sourceid": "efbf5f7f5a76def93798a2b2a940ee0e",
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "score": 0.710526315789,
+                        "djname": "Mad Joker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "",
+                            "artist": "Axis of Awesome",
+                            "song": "4 Chord Song",
+                            "length": 338,
+                            "genre": "Comedy",
+                            "bitrate": 128
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "source": "mn",
+                        "sourceid": "74524179",
+                        "created": 1349730402.24,
+                        "djid": "4e4e6e044fe7d02a351bc4d9",
+                        "score": 0.666666666667,
+                        "djname": "punkthinker",
+                        "_id": "507340625a2a7a7fa30011c8",
+                        "metadata": {
+                            "album": "The Cat Empire",
+                            "artist": "The Cat Empire",
+                            "coverart": "http://images.musicnet.com/albums/074/524/171/m.jpeg",
+                            "song": "The Chariot",
+                            "explicit": false,
+                            "label": "Two Shoes",
+                            "releasedate": "2003-10-24",
+                            "length": 334,
+                            "genre": "Rock",
+                            "isrc": "AUTW00300004"
+                        }
+                    },
+                    {
+                        "_id": "508f43115a2a7a2d1d001976",
+                        "djid": "4e0aa0664fe7d076b701c64f",
+                        "sourceid": "11571433",
+                        "created": 1351566097.15,
+                        "source": "mn",
+                        "score": 0.676470588235,
+                        "djname": "Zimzam",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "A Page From Uncle Tony's Coloring Book (6-Track Maxi-Single)",
+                            "song": "Grape Nuts & Chalk Sauce",
+                            "coverart": "http://images.musicnet.com/albums/011/571/429/m.jpeg",
+                            "artist": "Blockhead",
+                            "explicit": false,
+                            "label": "Ninja Tune",
+                            "releasedate": "2007-09-04",
+                            "length": 214,
+                            "genre": "Electronica/Dance",
+                            "isrc": "CADF60710021"
+                        }
+                    },
+                    {
+                        "_id": "4ddda23b845daf4c25007ab6",
+                        "source": "mn",
+                        "sourceid": "7654999",
+                        "djid": "4e540ba5a3f75104592977a3",
+                        "score": 0.588235294118,
+                        "djname": "Sub3rDuck",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Fahrenheit Fair Enough",
+                            "artist": "Telefon Tel Aviv",
+                            "coverart": "http://images.mndigital.com/albums/007/654/997/m.jpeg",
+                            "song": "Fahrenheit Fair Enough",
+                            "length": 400,
+                            "mnid": "7654999",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "sourceid": "5687021",
+                        "source": "mn",
+                        "score": 0.605263157895,
+                        "djname": "Mad Joker",
+                        "_id": "4ddd9a56845daf4c25007751",
+                        "metadata": {
+                            "album": "Gold (Parental Advisory)",
+                            "song": "Caress Me Down",
+                            "coverart": "http://images.mndigital.com/albums/005/686/939/m.jpeg",
+                            "artist": "Sublime",
+                            "length": 211,
+                            "mnid": "5687021",
+                            "genre": "Alternative/Indie"
+                        }
+                    },
+                    {
+                        "_id": "4dd99265e8a6c42de90004af",
+                        "source": "mn",
+                        "sourceid": "2696951",
+                        "djid": "4e4e6e044fe7d02a351bc4d9",
+                        "score": 0.619047619048,
+                        "djname": "punkthinker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Talkie Walkie",
+                            "labelid": 2,
+                            "song": "Surfing On A Rocket",
+                            "coverart": "http://images.mndigital.com/albums/002/696/939/m.jpeg",
+                            "artist": "Air",
+                            "explicit": false,
+                            "label": "EMI UK",
+                            "length": 223,
+                            "mnid": "2696951",
+                            "genre": "Electronica/Dance",
+                            "isrc": "FRS630300094"
+                        }
+                    },
+                    {
+                        "_id": "505f63c4cf683a3bda00128d",
+                        "created": 1348428740.68,
+                        "sourceid": "8795315713f64902b03234742d956f5b",
+                        "source": "upload",
+                        "score": 0.636363636364,
+                        "djname": "Nestie",
+                        "snaggable": true,
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "metadata": {
+                            "album": "Clipz EP",
+                            "genre": "Future-Crunk",
+                            "length": 289,
+                            "song": "Die 4 Me",
+                            "artist": "RL Grime"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "created": 1349153040.54,
+                        "sourceid": "438a2728e0aeaba691ac5c57256ee1c9",
+                        "source": "upload",
+                        "score": 0.613636363636,
+                        "djname": "Beatronic",
+                        "_id": "506a7110cf683a1736000ac6",
+                        "djid": "4f989a61aaa5cd2ae00000bf",
+                        "metadata": {
+                            "album": "Air (Summer Chords)",
+                            "genre": "Dubstep",
+                            "length": 323,
+                            "artist": "Rogue",
+                            "song": "Rogue - Air (Summer Chords)"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "sourceid": "1095201",
+                        "source": "mn",
+                        "score": 0.630434782609,
+                        "djname": "Mad Joker",
+                        "_id": "4ddbdc7f845daf6291000710",
+                        "metadata": {
+                            "album": "Dummy (Non UK Version)",
+                            "labelid": 5,
+                            "artist": "Portishead",
+                            "coverart": "http://images.mndigital.com/albums/000/731/865/m.jpeg",
+                            "song": "Wandering Star",
+                            "explicit": false,
+                            "label": "Island Def Jam",
+                            "length": 296,
+                            "mnid": "1095201",
+                            "genre": "Alternative/Indie",
+                            "isrc": "GBAQT9400063"
+                        }
+                    },
+                    {
+                        "_id": "4df81a1f99968e04a2000110",
+                        "source": "mn",
+                        "sourceid": "43147373",
+                        "djid": "4e0aa0664fe7d076b701c64f",
+                        "score": 0.7,
+                        "djname": "Zimzam",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Taking Up Your Precious Time",
+                            "artist": "Pretty Lights",
+                            "coverart": "http://images.mndigital.com/albums/043/147/367/m.jpeg",
+                            "song": "Wrong Platform",
+                            "length": 373,
+                            "mnid": "43147373",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "502da1495a2a7a20f60032eb",
+                        "djid": "4e4e6e044fe7d02a351bc4d9",
+                        "sourceid": "1984287",
+                        "created": 1345167689.97,
+                        "source": "mn",
+                        "score": 0.62,
+                        "djname": "punkthinker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Chilled Spirit: 16 Songs For The Mind, Body & Spirit",
+                            "song": "Porcelain",
+                            "coverart": "http://images.musicnet.com/albums/000/968/613/m.jpeg",
+                            "artist": "Moby",
+                            "explicit": false,
+                            "label": "London-Sire",
+                            "length": 239,
+                            "genre": "Electronica/Dance",
+                            "isrc": "GBAJH0100100"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "sourceid": "d40d6645522a2d75dffa4419af5919b0",
+                        "source": "upload",
+                        "score": 0.6,
+                        "djname": "Nestie",
+                        "_id": "4f3d6536c7d26c4ad500273b",
+                        "metadata": {
+                            "album": "Mesmerizing The Ultra",
+                            "genre": "Electronica",
+                            "length": 317,
+                            "song": "Enter The Chamber",
+                            "artist": "Bassnectar"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "sourceid": "64446083",
+                        "source": "mn",
+                        "score": 0.608695652174,
+                        "djname": "Mad Joker",
+                        "_id": "4f80932d99968e3b68009039",
+                        "metadata": {
+                            "album": "Sunshine",
+                            "labelid": 194,
+                            "artist": "Submotion Orchestra",
+                            "coverart": "http://images.mndigital.com/albums/064/446/081/m.jpeg",
+                            "song": "Sunshine",
+                            "length": 269,
+                            "mnid": "64446083",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "source": "mn",
+                        "sourceid": "66970923",
+                        "created": 1344976798.08,
+                        "djid": "4e0aa0664fe7d076b701c64f",
+                        "score": 0.5625,
+                        "djname": "Zimzam",
+                        "_id": "502ab79e5a2a7a76ab00035a",
+                        "metadata": {
+                            "album": "Sail - Single",
+                            "artist": "Sail",
+                            "coverart": "http://images.musicnet.com/albums/066/970/921/m.jpeg",
+                            "song": "Sail",
+                            "explicit": false,
+                            "label": "Global Entertainment",
+                            "length": 271,
+                            "genre": "Pop",
+                            "isrc": "USCRP1200898"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e4e6e044fe7d02a351bc4d9",
+                        "sourceid": "43523861",
+                        "source": "mn",
+                        "score": 0.625,
+                        "djname": "punkthinker",
+                        "_id": "4ddac678e8a6c461eb00177a",
+                        "metadata": {
+                            "album": "Just Be",
+                            "labelid": 1,
+                            "artist": "DJ TiÃ«sto",
+                            "coverart": "http://images.mndigital.com/albums/043/523/837/m.jpeg",
+                            "song": "Adagio For Strings",
+                            "explicit": false,
+                            "label": "Nettwerk Records",
+                            "length": 357,
+                            "mnid": "43523861",
+                            "genre": "Electronica/Dance",
+                            "isrc": "NLE710480320"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "sourceid": "fc4ddc761e31145fc729a9547b4d253f",
+                        "source": "upload",
+                        "score": 0.636363636364,
+                        "djname": "Nestie",
+                        "_id": "4e48904799968e480e005981",
+                        "metadata": {
+                            "album": "Nomad",
+                            "genre": "Rock",
+                            "length": 335,
+                            "artist": "Lotus",
+                            "song": "Ball of Energy"
+                        }
+                    },
+                    {
+                        "_id": "5069c152cf683a172d000030",
+                        "created": 1349108050.27,
+                        "sourceid": "b761328ddf782534bc1c7ef0d5a33d37",
+                        "source": "upload",
+                        "score": 0.615384615385,
+                        "djname": "Mad Joker",
+                        "snaggable": true,
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "metadata": {
+                            "album": "Astral Projection",
+                            "genre": "Dubstep",
+                            "length": 326,
+                            "song": "Stardust",
+                            "artist": "Minnesota"
+                        }
+                    },
+                    {
+                        "_id": "4ddaeb3ae8a6c47b51000f6e",
+                        "source": "mn",
+                        "sourceid": "50967405",
+                        "djid": "4e0aa0664fe7d076b701c64f",
+                        "score": 0.557692307692,
+                        "djname": "Zimzam",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Racing With The Sun",
+                            "artist": "Chinese Man",
+                            "coverart": "http://images.mndigital.com/albums/050/967/391/m.jpeg",
+                            "song": "Racing With The Sun",
+                            "length": 245,
+                            "mnid": "50967405",
+                            "genre": "Rap/Hip Hop"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "508175f3aaa5cd35460000a2",
+                        "sourceid": "32371803",
+                        "source": "mn",
+                        "score": 0.625,
+                        "djname": "CoderMonkey",
+                        "_id": "4dd850a5e8a6c42aa70004fe",
+                        "metadata": {
+                            "album": "A Certain Distance",
+                            "song": "Two Dots",
+                            "coverart": "http://images.mndigital.com/albums/032/371/799/m.jpeg",
+                            "artist": "Lusine",
+                            "length": 278,
+                            "mnid": "32371803",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "created": 1349300132.2,
+                        "sourceid": "7b634f1abd8ef7d32cb11465ddc0a87e",
+                        "source": "upload",
+                        "score": 0.642857142857,
+                        "djname": "Nestie",
+                        "_id": "506cafa4cf683a52960002ed",
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "metadata": {
+                            "album": "Foreseen / Unidentified",
+                            "genre": "Dubstep / Grime / Funky",
+                            "length": 309,
+                            "artist": "Freeze & LX One",
+                            "song": "Foreseen"
+                        }
+                    },
+                    {
+                        "_id": "5096ea33cf683a60a2e0b535",
+                        "created": 1352067635.15,
+                        "sourceid": "ff615444af7b8459349e75039c00981e",
+                        "source": "upload",
+                        "score": 0.625,
+                        "djname": "Joe Flateau",
+                        "snaggable": true,
+                        "djid": "4f3f4d68590ca27dc6000045",
+                        "metadata": {
+                            "album": "Echoes (Single)",
+                            "genre": "Future Garage",
+                            "length": 416,
+                            "song": "Echoes",
+                            "artist": "Tom Day"
+                        }
+                    },
+                    {
+                        "_id": "4f26e4ee99968e201d0372a2",
+                        "source": "mn",
+                        "sourceid": "62324157",
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "score": 0.607142857143,
+                        "djname": "Mad Joker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Waterdrops \\/ Desert Road",
+                            "labelid": 44,
+                            "artist": "Minor Rain",
+                            "coverart": "http://images.mndigital.com/albums/062/324/153/m.jpeg",
+                            "song": "Desert Road",
+                            "length": 377,
+                            "mnid": "62324157",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "4e14906d99968e75ff0016fc",
+                        "source": "upload",
+                        "sourceid": "2412f6709db7d111dccb101934a944cc",
+                        "djid": "4e540ba5a3f75104592977a3",
+                        "score": 0.666666666667,
+                        "djname": "Sub3rDuck",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Requiem for a Dream: The Remix Project",
+                            "artist": "Paul Oakenfold",
+                            "song": "Aeternal",
+                            "length": 400,
+                            "genre": "Electronica",
+                            "bitrate": 128
+                        }
+                    },
+                    {
+                        "_id": "5016179fcf683a1f8a000d53",
+                        "source": "upload",
+                        "sourceid": "9d5edc0530963e127a69563b479ffca5",
+                        "djid": "508175f3aaa5cd35460000a2",
+                        "score": 0.65,
+                        "djname": "CoderMonkey",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Cerulean",
+                            "genre": "",
+                            "length": 184,
+                            "artist": "Cerulean",
+                            "song": "Cerulean Skies"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "sourceid": "55305925",
+                        "source": "mn",
+                        "score": 0.629032258065,
+                        "djname": "Nestie",
+                        "_id": "4e3c39f999968e5a9e11b5e5",
+                        "metadata": {
+                            "album": "Solar Cycle \\/ Merkabah",
+                            "labelid": 1445,
+                            "song": "Merkabah",
+                            "coverart": "http://images.mndigital.com/albums/055/305/921/m.jpeg",
+                            "artist": "Om Unit",
+                            "length": 251,
+                            "mnid": "55305925",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "4df2849799968e73a000105a",
+                        "source": "mn",
+                        "sourceid": "49443075",
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "score": 0.640625,
+                        "djname": "Mad Joker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Water 4 The Soul Ep",
+                            "artist": "Gramatik",
+                            "coverart": "http://images.mndigital.com/albums/049/443/063/m.jpeg",
+                            "song": "Epic Destiny",
+                            "length": 431,
+                            "mnid": "49443075",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "50a6646fcf683a6ed162ec05",
+                        "created": 1353081967.5,
+                        "sourceid": "cd550504c12eedabbff2ba54bb1217f9",
+                        "source": "upload",
+                        "score": 0.640625,
+                        "djname": "Sub3rDuck",
+                        "snaggable": true,
+                        "djid": "4e540ba5a3f75104592977a3",
+                        "metadata": {
+                            "album": "Involver",
+                            "genre": "Psychedelic",
+                            "length": 572,
+                            "song": "Dorset Perception (Sasha Mix)",
+                            "artist": "Shpongle"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "created": 1349992040,
+                        "sourceid": "2e6e74e8effe4dc8d801b83d2618492e",
+                        "source": "upload",
+                        "score": 0.677419354839,
+                        "djname": "Axehole",
+                        "_id": "50773e67cf683a7f37002a69",
+                        "djid": "4f9560ceeb35c1654300000d",
+                        "metadata": {
+                            "album": "James Egbert Bootleg",
+                            "genre": "",
+                            "length": 286,
+                            "artist": "Earth, Wind & Fire",
+                            "song": "September (James Egbert Remix)"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "508175f3aaa5cd35460000a2",
+                        "sourceid": "4559807",
+                        "source": "mn",
+                        "score": 0.683333333333,
+                        "djname": "CoderMonkey",
+                        "_id": "4e3b45e399968e5a8c10167b",
+                        "metadata": {
+                            "album": "Fresh Goods",
+                            "labelid": 70,
+                            "song": "Cha Cha Cha 57",
+                            "coverart": "http://images.mndigital.com/albums/004/559/791/m.jpeg",
+                            "artist": "The Tao Of Groove",
+                            "length": 250,
+                            "mnid": "4559807",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "4fdb75a25a2a7a0c630004eb",
+                        "source": "mn",
+                        "sourceid": "67757949",
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "score": 0.689655172414,
+                        "djname": "Nestie",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "She's On Fire (Maya Jane Coles Remix)",
+                            "labelid": 182,
+                            "song": "She's On Fire (Maya Jane Coles Remix)",
+                            "coverart": "http://images.mndigital.com/albums/067/757/947/m.jpeg",
+                            "artist": "Bo Saris",
+                            "explicit": false,
+                            "label": "BoRush",
+                            "length": 359,
+                            "mnid": "67757949",
+                            "genre": "Electronica/Dance",
+                            "isrc": ""
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "sourceid": "59703925",
+                        "source": "mn",
+                        "score": 0.666666666667,
+                        "djname": "Mad Joker",
+                        "_id": "4eff615f99968e383d005659",
+                        "metadata": {
+                            "album": "White Mink (Special Us Edition)",
+                            "labelid": 634,
+                            "song": "Chambermaid Swing",
+                            "coverart": "http://images.mndigital.com/albums/059/703/901/m.jpeg",
+                            "artist": "Parov Stelar",
+                            "length": 328,
+                            "mnid": "59703925",
+                            "genre": "Alternative/Indie",
+                            "tags": []
+                        }
+                    },
+                    {
+                        "_id": "4ddc5e87845daf4c25000bad",
+                        "source": "mn",
+                        "sourceid": "12049675",
+                        "djid": "4dfcdd564fe7d0250302b5a5",
+                        "score": 0.633333333333,
+                        "djname": "Duder",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Free The Robots EP",
+                            "song": "Jazzhole",
+                            "coverart": "http://images.mndigital.com/albums/012/049/669/m.jpeg",
+                            "artist": "Free The Robots",
+                            "length": 224,
+                            "mnid": "12049675",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "4ff1fb7dcf683a48a20000ae",
+                        "djid": "4e540ba5a3f75104592977a3",
+                        "sourceid": "b5dd71ba302042efa1d81d4de58d3478",
+                        "source": "upload",
+                        "score": 0.645161290323,
+                        "djname": "Sub3rDuck",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Curses From Past Times (EP)",
+                            "genre": "Instrumental Hip-Hop",
+                            "length": 304,
+                            "artist": "ProleteR",
+                            "song": "Soul Key"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "source": "mn",
+                        "sourceid": "33239123",
+                        "created": 1345077806.82,
+                        "djid": "4f9560ceeb35c1654300000d",
+                        "score": 0.640625,
+                        "djname": "Axehole",
+                        "_id": "502c422e5a2a7a52c900093b",
+                        "metadata": {
+                            "album": "Classic Big Tunes 2009",
+                            "artist": "Alice Deejay",
+                            "coverart": "http://images.musicnet.com/albums/033/239/109/m.jpeg",
+                            "song": "Better Off Alone",
+                            "explicit": false,
+                            "label": "HARD2BEAT RECORDS",
+                            "length": 218,
+                            "genre": "Electronica/Dance",
+                            "isrc": "GBCEN0901373"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4e32cf16a3f7512c8813b65e",
+                        "sourceid": "47432923",
+                        "source": "mn",
+                        "score": 0.647058823529,
+                        "djname": "Nestie",
+                        "_id": "4ddfe5f1845daf674a0000a5",
+                        "metadata": {
+                            "album": "Step In Shadows - Ep",
+                            "song": "Colonise",
+                            "coverart": "http://images.mndigital.com/albums/047/432/917/m.jpeg",
+                            "artist": "SBTRKT",
+                            "length": 257,
+                            "mnid": "47432923",
+                            "genre": "Electronica/Dance"
+                        }
+                    },
+                    {
+                        "_id": "4dd82e68e8a6c42aa70001c3",
+                        "source": "mn",
+                        "sourceid": "27833705",
+                        "djid": "4e35e0394fe7d03c7306489b",
+                        "score": 0.612903225806,
+                        "djname": "Mad Joker",
+                        "snaggable": true,
+                        "metadata": {
+                            "album": "Another Night",
+                            "labelid": 3,
+                            "song": "Another Night",
+                            "coverart": "http://images.mndigital.com/albums/027/833/675/m.jpeg",
+                            "artist": "Real McCoy",
+                            "explicit": false,
+                            "label": "ARISTA",
+                            "length": 235,
+                            "mnid": "27833705",
+                            "genre": "Electronica/Dance",
+                            "isrc": "DEC739400378"
+                        }
+                    },
+                    {
+                        "snaggable": true,
+                        "djid": "4dfcdd564fe7d0250302b5a5",
+                        "sourceid": "37095",
+                        "source": "mn",
+                        "djname": "Duder",
+                        "_id": "4f71e24299968e4018057ee7",
+                        "metadata": {
+                            "album": "You've Come A Long Way, Baby (Parental Advisory)",
+                            "labelid": 2,
+                            "artist": "Fatboy Slim",
+                            "coverart": "http://images.mndigital.com/albums/000/037/087/m.jpeg",
+                            "song": "Gangster Tripping",
+                            "length": 320,
+                            "mnid": "37095",
+                            "genre": "Electronica/Dance"
+                        }
+                    }
+                ],
+                "userid": "4dd8ca0be8a6c40c22000004",
+                "listeners": 35,
+                "djcount": 5,
+                "votelog": [
+                    [
+                        "4fce68c9eb35c15f8f00000c",
+                        "up"
+                    ],
+                    [
+                        "4e35e0394fe7d03c7306489b",
+                        "up"
+                    ],
+                    [
+                        "508175f3aaa5cd35460000a2",
+                        "up"
+                    ],
+                    [
+                        "4e540ba5a3f75104592977a3",
+                        "up"
+                    ],
+                    [
+                        "4f9a2633aaa5cd2add00017a",
+                        "up"
+                    ],
+                    [
+                        "4e0de15a4fe7d024d5010d15",
+                        "up"
+                    ],
+                    [
+                        "4e32cf16a3f7512c8813b65e",
+                        "up"
+                    ],
+                    [
+                        "4f2ca85aa3f75176bb00a06c",
+                        "up"
+                    ]
+                ],
+                "section_enabled": false
+            }
+        },
+        "success": true,
+        "_id": "50be2f6b616e2f6c12000001"
+    }]
